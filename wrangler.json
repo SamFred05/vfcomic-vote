@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vfcomic-vote",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "90f37edf-0ee3-480d-a695-e2d5f19825a8",
+			"database_name": "vfcomic-vote-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
